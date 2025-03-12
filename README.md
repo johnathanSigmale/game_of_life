@@ -45,7 +45,7 @@ This project offers an implementation of Conway's Game of Life, utilizing [Egui]
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
+Contributions are welcome! Feel free to fork the repository and submit pull requests with enhancements or bug fixes. This project is currently incomplete, i want to add a way of storing specific ecosystems, complexify the possible inter-species interractions, and alse better optimize the step function by using multithreading or just a better architecture. 
 
 ## License
 
